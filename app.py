@@ -10,7 +10,7 @@ warnings.filterwarnings('ignore')
 
 st.set_page_config(page_title="LipNet", page_icon=":lips:", layout="wide")
 
-st.header("LipsNet")
+st.header("LipNet")
 
 st.sidebar.subheader(("Input a picture of a Face."))
 file_up = st.sidebar.file_uploader("Upload an Image", type=["jpg", "jpeg", "png"])
