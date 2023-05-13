@@ -8,3 +8,4 @@ psutil
 pyyaml
 tqdm
 matplotlib
+seaborn
