@@ -8,7 +8,7 @@ import cv2
 import warnings
 warnings.filterwarnings('ignore')
 
-st.set_page_config(page_title="LipNet", page_icon=":lip:", layout="wide")
+st.set_page_config(page_title="LipNet", page_icon=":lips:", layout="wide")
 
 st.header("LipsNet")
 
